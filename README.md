@@ -56,10 +56,14 @@
 
 ---
 
-## 🚀 **Download & Setup (Concept)**
+## 🚀 **Download & Setup **
 
-1. **Download:** Conceptual framework as a ZIP archive 
-2. **Extract & Run:** Unzip and launch the simulation tool.  
+
+1. **Download the package**  
+
+   [⬇️ Download Package](#)  
+2. **Download:** Conceptual framework as a ZIP archive 
+3. **Extract & Run:** Unzip and launch the simulation tool.  
 
 
 ## ⚠️ **Important Disclaimer**
